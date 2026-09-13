@@ -1,5 +1,8 @@
 # android-Auto-Backup-Telegram
 # 安卓免費備份到TG雲端無限空間
+我APP上有開發者資訊如果涉及違法絕對跑不掉 絕不做違法事情
+根據台灣的《個人資料保護法》「本軟體僅統計每日匿名使用人數，絕不蒐集、上傳任何相片檔案、個資或通訊內容。」
+
 <img width="1367" height="3066" alt="1000092637" src="https://github.com/user-attachments/assets/0d083951-be72-4a84-8a25-311c5b971215" />
 
 APP特點
