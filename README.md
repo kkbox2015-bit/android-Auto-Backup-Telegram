@@ -29,11 +29,18 @@
 在Whi would的輸入框裡面打@youyouyouyou_bot 就是你剛創立的機器人讓他加入在點右下方的箭頭
 輸入中文聊天群組名稱在點右下角打勾
 點你的群組名稱 點右上角有一隻編輯的筆 選Administrators 在點Add Admin 點你創立的機器人再點右上角打勾
-再點add admin這次點右上角有一個放大鏡出現Search在裡面輸入@getidsbot這邊要特別注意很多類似機器人名稱
+再點add admin這次點右上角有一個放大鏡出現Search在裡面輸入@getidsbot
+這邊要特別注意很多類似機器人名稱
+<img width="3000" height="4000" alt="1000092600" src="https://github.com/user-attachments/assets/8c252fcb-44c1-4024-92ec-3c357a8a4301" />
+
 請點那隻頭像有一個ID圖片 他的名稱有GetIDs Bot 跟getidsbot一樣點右上打勾
 左上角點箭頭兩次返回到聊天室 就會看到聊天室id -1004458287請把他複製包含開頭的-
 這時候就可以把getidsbot這隻機器人踢掉了 只留你的機器人
+<img width="2852" height="3894" alt="1000092602" src="https://github.com/user-attachments/assets/509086a4-b018-4890-885a-a7efc1add2f6" />
+
 在打開這次下載的APP點設定自動備份（尚未設定）
+<img width="2162" height="3986" alt="1000092596" src="https://github.com/user-attachments/assets/12593ed9-d23e-4fd8-8045-a31c7d51d42a" />
+
 把他貼在Chat ID 
 選+新增 去找你手機儲存拍照的資料夾通常在DCIM再選Camera下方選使用這個資料夾 要備份其他資料也可自行更改再按驗證並儲存 就會看到已綁定你創立的群組
 在把啟動資料夾自動備份上傳打開
