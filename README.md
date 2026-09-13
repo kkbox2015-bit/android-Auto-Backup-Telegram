@@ -20,6 +20,8 @@
 這串代碼複製 
 打開此次下載的app 
 點設定自動備份（尚未設定）
+<img width="2162" height="3986" alt="1000092596" src="https://github.com/user-attachments/assets/f65e2102-bd27-4d7e-9e87-030bfebfffd9" />
+
 請貼上Bot Toekn這個格子就是貼上剛剛上面複製的再來按儲存
 2.在打開TG創立要自動備份的群組名稱可以取寵物紀錄區 手機自動備份區 或記事本區
 創立群組方法一樣打開Telegram最下方英文版選Chats 中文版選聊天室
