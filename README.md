@@ -1,5 +1,6 @@
 # android-Auto-Backup-Telegram
 # 安卓免費備份到TG雲端無限空間
+<img width="1367" height="3066" alt="1000092637" src="https://github.com/user-attachments/assets/0d083951-be72-4a84-8a25-311c5b971215" />
 
 APP特點
 手機拍完照可以立刻傳到TG備份（手機上就可以刪除不佔用空間）
