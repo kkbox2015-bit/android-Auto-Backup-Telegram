@@ -34,7 +34,9 @@
 <img width="3000" height="4000" alt="1000092600" src="https://github.com/user-attachments/assets/8c252fcb-44c1-4024-92ec-3c357a8a4301" />
 
 請點那隻頭像有一個ID圖片 他的名稱有GetIDs Bot 跟getidsbot一樣點右上打勾
-左上角點箭頭兩次返回到聊天室 就會看到聊天室id -1004458287請把他複製包含開頭的-
+左上角點箭頭兩次返回到聊天室 就會看到聊天室id-1004458287請把他複製包含開頭的-
+<img width="2184" height="4000" alt="1000092604" src="https://github.com/user-attachments/assets/0ffe22cb-e4b1-4549-9544-e29ca1edad6b" />
+
 這時候就可以把getidsbot這隻機器人踢掉了 只留你的機器人
 <img width="2852" height="3894" alt="1000092602" src="https://github.com/user-attachments/assets/509086a4-b018-4890-885a-a7efc1add2f6" />
 
