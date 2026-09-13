@@ -6,6 +6,8 @@
 <img width="2102" height="3964" alt="1000092593" src="https://github.com/user-attachments/assets/9c4fc9f0-8ae8-4d8a-9784-01cedf731b25" />
 打開Telegram最下方英文版選Chats 中文版選聊天室在到上方英文版是Search Chats 中文版搜尋聊天室 在此處輸入BotFather 一定要點頭像進入不能點右邊開啟
 <img width="2944" height="1430" alt="1000092594" src="https://github.com/user-attachments/assets/ed96ec08-2e39-4939-8268-c4b82676f56b" />
+<img width="1942" height="3946" alt="1000092595" src="https://github.com/user-attachments/assets/f144aef6-dd85-4811-8109-d1c5278d6197" />
+
 在下方對話框輸入/newbot
 會出現Alright a new ......一長串
 再來輸入你的機器人名稱必須英文加底線_bot
