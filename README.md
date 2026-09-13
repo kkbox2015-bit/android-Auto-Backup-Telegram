@@ -3,7 +3,10 @@
 可免費無限上傳到TG照片跟影片單檔案限制50MB以內 只要不超過畫質不壓縮不過期 超過程式也會幫你壓縮但畫質可能就下降（原本的line也是會壓縮畫質）
 需要先註冊安裝Telegram
 1.創建官方機器人取得bot token（填入app用）
-打開Telegram最下方英文版選Chats 中文版選聊天室在到上方英文版是Search Chats 中文版搜尋聊天室 在此處輸入BotFather 點頭像進入在下方對話框輸入/newbot
+<img width="2102" height="3964" alt="1000092593" src="https://github.com/user-attachments/assets/9c4fc9f0-8ae8-4d8a-9784-01cedf731b25" />
+打開Telegram最下方英文版選Chats 中文版選聊天室在到上方英文版是Search Chats 中文版搜尋聊天室 在此處輸入BotFather 一定要點頭像進入不能點右邊開啟
+<img width="2944" height="1430" alt="1000092594" src="https://github.com/user-attachments/assets/ed96ec08-2e39-4939-8268-c4b82676f56b" />
+在下方對話框輸入/newbot
 會出現Alright a new ......一長串
 再來輸入你的機器人名稱必須英文加底線_bot
 上面已經有八百多萬個機器人非常容易重複名稱
